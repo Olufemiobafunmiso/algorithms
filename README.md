@@ -1,2 +1,2 @@
 # algorithms
-Solution to algos
+Complilation of common algorithms
